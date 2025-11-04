@@ -22,7 +22,7 @@ The app has a simple window with a box to type the product name, a box for quant
 3. Open the folder and run:
 
    ```
-   python billit.py
+   python billit_script.py
    ```
 4. Enter the product details and click **Add Item to Bill** to see the total displayed in the app.
 
